@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
        Scanner s = new Scanner(System.in);
-       String str = s.next();
+       String str = s.nextLine();
        System.out.println("Hi " + str + ", Hope you have fun here.");
     }
 }

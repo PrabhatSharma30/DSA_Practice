@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0472305e-19db-4d10-aa51-24fc2b375013" name="Changes" comment="new changes 3">
+    <list default="true" id="0472305e-19db-4d10-aa51-24fc2b375013" name="Changes" comment="New Change in my code.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -44,7 +44,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.A_EXP">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="A_EXP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.DSA.string.A_EXP" />
       <module name="DSA_Practice" />
@@ -71,8 +71,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DSA_Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.A_EXP" />
         <item itemvalue="Application.A_Exp" />
       </list>
     </recent_temporary>
@@ -93,11 +102,19 @@
       <option name="project" value="LOCAL" />
       <updated>1677560525304</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New Change in my code.">
+      <created>1677560809204</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677560809204</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new changes 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="new changes 3" />
+    <MESSAGE value="New Change in my code." />
+    <option name="LAST_COMMIT_MESSAGE" value="New Change in my code." />
   </component>
 </project>
