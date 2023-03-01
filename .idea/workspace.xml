@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0472305e-19db-4d10-aa51-24fc2b375013" name="Changes" comment="New Change in my code.">
+    <list default="true" id="0472305e-19db-4d10-aa51-24fc2b375013" name="Changes" comment="Day One practices">
+      <change afterPath="$PROJECT_DIR$/src/com/DSA/arrays/Exp_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DSA/arrays/Exp_C.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/DSA/arrays/A_Exp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/DSA/arrays/Exp_A.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Exp_C">
     <configuration name="A_EXP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.DSA.string.A_EXP" />
       <module name="DSA_Practice" />
@@ -58,8 +60,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A_Exp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.DSA.arrays.A_Exp" />
+    <configuration name="Exp_A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DSA.arrays.Exp_A" />
+      <module name="DSA_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DSA.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exp_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DSA.arrays.Exp_B" />
+      <module name="DSA_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DSA.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exp_C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DSA.arrays.Exp_C" />
       <module name="DSA_Practice" />
       <extension name="coverage">
         <pattern>
@@ -80,9 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exp_C" />
+        <item itemvalue="Application.Exp_B" />
+        <item itemvalue="Application.Exp_A" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.A_EXP" />
-        <item itemvalue="Application.A_Exp" />
       </list>
     </recent_temporary>
   </component>
@@ -109,12 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677560809204</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New Change in my code 1.">
+      <created>1677561093461</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677561093461</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new changes 3" />
     <MESSAGE value="New Change in my code." />
-    <option name="LAST_COMMIT_MESSAGE" value="New Change in my code." />
+    <MESSAGE value="New Change in my code 1." />
+    <MESSAGE value="Day One practices" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day One practices" />
   </component>
 </project>
