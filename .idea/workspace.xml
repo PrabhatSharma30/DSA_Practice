@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0472305e-19db-4d10-aa51-24fc2b375013" name="Changes" comment="New File Added.">
+    <list default="true" id="0472305e-19db-4d10-aa51-24fc2b375013" name="Changes" comment="Today's Practice">
+      <change afterPath="$PROJECT_DIR$/src/com/DSA/arrays/Exp_D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DSA/arrays/Exp_E.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/DSA/arrays/QuestionsList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/DSA/arrays/QuestionsList.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677690119877</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Today's Practice">
+      <created>1677776789736</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677776789736</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,6 +181,7 @@
     <MESSAGE value="New Change in my code 1." />
     <MESSAGE value="Day One practices" />
     <MESSAGE value="New File Added." />
-    <option name="LAST_COMMIT_MESSAGE" value="New File Added." />
+    <MESSAGE value="Today's Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Today's Practice" />
   </component>
 </project>
