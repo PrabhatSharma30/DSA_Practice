@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0472305e-19db-4d10-aa51-24fc2b375013" name="Changes" comment="Day One practices">
-      <change afterPath="$PROJECT_DIR$/src/com/DSA/arrays/Exp_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/DSA/arrays/Exp_C.java" afterDir="false" />
+    <list default="true" id="0472305e-19db-4d10-aa51-24fc2b375013" name="Changes" comment="Today's Practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/DSA/arrays/A_Exp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/DSA/arrays/Exp_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/DSA/arrays/QuestionsList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/DSA/arrays/QuestionsList.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +44,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Exp_C">
-    <configuration name="A_EXP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.DSA.string.A_EXP" />
-      <module name="DSA_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.DSA.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exp_E">
     <configuration name="Exp_A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.DSA.arrays.Exp_A" />
       <module name="DSA_Practice" />
@@ -99,20 +84,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Exp_D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DSA.arrays.Exp_D" />
       <module name="DSA_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DSA.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exp_E" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DSA.arrays.Exp_E" />
+      <module name="DSA_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DSA.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exp_E" />
+        <item itemvalue="Application.Exp_D" />
         <item itemvalue="Application.Exp_C" />
         <item itemvalue="Application.Exp_B" />
         <item itemvalue="Application.Exp_A" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.A_EXP" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +150,35 @@
       <option name="project" value="LOCAL" />
       <updated>1677561093461</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day One practices">
+      <created>1677689856484</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677689856485</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New File Added.">
+      <created>1677690119877</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677690119877</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Today's Practice">
+      <created>1677776789736</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677776789736</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Today's Practice">
+      <created>1677776906684</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677776906684</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,6 +186,8 @@
     <MESSAGE value="New Change in my code." />
     <MESSAGE value="New Change in my code 1." />
     <MESSAGE value="Day One practices" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day One practices" />
+    <MESSAGE value="New File Added." />
+    <MESSAGE value="Today's Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Today's Practice" />
   </component>
 </project>
