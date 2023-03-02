@@ -1,5 +1,5 @@
-Exp_A ------- Reverse the array
-Exp_B ------- Find the maximum and minimum element in an array
-Exp_A ------- Move all the negative elements to one side of the array
-Exp_A ------- Reverse the array
+Exp_A ------- Reverse the array.
+Exp_B ------- Find the maximum and minimum element in an array.
+Exp_C ------- Move all the negative elements to one side of the array.
+Exp_D ------- Write a program to cyclically rotate an array by one.
 Exp_A ------- Reverse the array
